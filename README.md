@@ -195,5 +195,7 @@ This project is for educational purposes only and does not constitute financial 
 
 👤 Author
 Sunil 
+
 Data Analytics Student
+
 Academic Project | Cryptocurrency Volatility Analysis
